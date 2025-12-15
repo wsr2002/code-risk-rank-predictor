@@ -1,0 +1,8 @@
+# 项目路径列表
+# 每行一个项目路径（可以是绝对路径或相对路径）
+# 以 # 开头的行会被忽略
+
+D:\testsprite\requests
+# D:\testsprite\another_project
+# D:\testsprite\yet_another_project
+

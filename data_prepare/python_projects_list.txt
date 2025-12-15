@@ -1,0 +1,12 @@
+# Python项目路径列表
+# 从 D:\testsprite\python_projects 目录下的所有项目
+
+D:\testsprite\python_projects\airflow
+D:\testsprite\python_projects\ansible
+D:\testsprite\python_projects\celery
+D:\testsprite\python_projects\edx-platform
+D:\testsprite\python_projects\nova
+D:\testsprite\python_projects\salt
+D:\testsprite\python_projects\superset
+D:\testsprite\python_projects\zulip
+
